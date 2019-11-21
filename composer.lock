@@ -783,6 +783,7 @@
             ],
             "description": "Promoting the interoperability of container objects (DIC, SL, etc.)",
             "homepage": "https://github.com/container-interop/container-interop",
+            "abandoned": "psr/container",
             "time": "2017-02-14T19:40:03+00:00"
         },
         {
@@ -1883,7 +1884,7 @@
             "version": "1.0.0-beta2",
             "source": {
                 "type": "git",
-                "url": "https://git.drupal.org/project/tome",
+                "url": "https://git.drupalcode.org/project/tome.git",
                 "reference": "8.x-1.0-beta2"
             },
             "dist": {
@@ -1908,7 +1909,7 @@
                 },
                 "drupal": {
                     "version": "8.x-1.0-beta2",
-                    "datestamp": "1545586981",
+                    "datestamp": "1549898880",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Beta releases are not covered by Drupal security advisories."
@@ -1928,7 +1929,7 @@
             "description": "Everything you need to do everything statically.",
             "homepage": "https://www.drupal.org/project/tome",
             "support": {
-                "source": "http://cgit.drupalcode.org/tome"
+                "source": "https://git.drupalcode.org/project/tome"
             }
         },
         {
@@ -1945,7 +1946,7 @@
                 },
                 "drupal": {
                     "version": "8.x-1.0-beta2",
-                    "datestamp": "1545586981",
+                    "datestamp": "1549898880",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Beta releases are not covered by Drupal security advisories."
@@ -1965,7 +1966,7 @@
             "description": "Contains shared services and traits between Tome Sync and Tome Static.",
             "homepage": "https://www.drupal.org/project/tome",
             "support": {
-                "source": "http://cgit.drupalcode.org/tome"
+                "source": "https://git.drupalcode.org/project/tome"
             }
         },
         {
@@ -1983,7 +1984,7 @@
                 },
                 "drupal": {
                     "version": "8.x-1.0-beta2",
-                    "datestamp": "1545586981",
+                    "datestamp": "1549898880",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Beta releases are not covered by Drupal security advisories."
@@ -2003,7 +2004,7 @@
             "description": "Exports an entire Drupal site to static HTML.",
             "homepage": "https://www.drupal.org/project/tome",
             "support": {
-                "source": "http://cgit.drupalcode.org/tome"
+                "source": "https://git.drupalcode.org/project/tome"
             }
         },
         {
@@ -2021,7 +2022,7 @@
                 },
                 "drupal": {
                     "version": "8.x-1.0-beta2",
-                    "datestamp": "1545586981",
+                    "datestamp": "1549898880",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Beta releases are not covered by Drupal security advisories."
@@ -2041,7 +2042,7 @@
             "description": "Allows Drupal to installed from flat files and keeps content in sync.",
             "homepage": "https://www.drupal.org/project/tome",
             "support": {
-                "source": "http://cgit.drupalcode.org/tome"
+                "source": "https://git.drupalcode.org/project/tome"
             }
         },
         {
@@ -3506,16 +3507,16 @@
         },
         {
             "name": "symfony/dependency-injection",
-            "version": "v3.4.20",
+            "version": "v3.4.35",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/dependency-injection.git",
-                "reference": "5be2d762b51076295a972c86604a977fbcc5c12b"
+                "reference": "0ea4d39ca82409a25a43b61ce828048a90000920"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/dependency-injection/zipball/5be2d762b51076295a972c86604a977fbcc5c12b",
-                "reference": "5be2d762b51076295a972c86604a977fbcc5c12b",
+                "url": "https://api.github.com/repos/symfony/dependency-injection/zipball/0ea4d39ca82409a25a43b61ce828048a90000920",
+                "reference": "0ea4d39ca82409a25a43b61ce828048a90000920",
                 "shasum": ""
             },
             "require": {
@@ -3573,7 +3574,7 @@
             ],
             "description": "Symfony DependencyInjection Component",
             "homepage": "https://symfony.com",
-            "time": "2018-12-02T15:50:25+00:00"
+            "time": "2019-11-08T16:18:30+00:00"
         },
         {
             "name": "symfony/event-dispatcher",
